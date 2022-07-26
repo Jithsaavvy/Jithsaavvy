@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jithin Sasikumar from Germany</h1>
-<h3 align="center">Master's student in Autonomous Systems [ML/DL] & developer in AI. Experienced in deep learning, speech technologies, NLP and currently in the direction of MLOps</h3>
+<h3 align="center">Master's student in Autonomous Systems [ML/DL] & developer. Experienced in deep learning, speech technologies, NLP and currently in the direction of MLOps..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithsaavvy&label=Profile%20views&color=0e75b6&style=flat" alt="jithsaavvy" /> </p>
 
@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **MLOps and DevOps principles**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Jithsaavvy?tab=repositories](https://github.com/Jithsaavvy?tab=repositories)
+
 - 📫 How to reach me **jithsasikumar@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/jithin-sasikumar/](https://www.linkedin.com/in/jithin-sasikumar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
