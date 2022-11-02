@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **deep learning, Automatic Speech Recognition, Language modeling and MLOps**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jithsaavvy?tab=repositories](https://github.com/Jithsaavvy?tab=repositories)
+- 🔭 I'm always keen on amalgamating research, development, and deployment (obsessed with deploying models into production).
 
-- 📫 How to reach me **jithsasikumar@gmail.com**
+- 👨‍💻 All of my projects are available @ [https://github.com/Jithsaavvy?tab=repositories](https://github.com/Jithsaavvy?tab=repositories)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jithin-sasikumar/](https://www.linkedin.com/in/jithin-sasikumar/)
+- 📫 Reach me @ **jithsasikumar@gmail.com**
+
+- 📄 Know about my experiences @ [https://www.linkedin.com/in/jithin-sasikumar/](https://www.linkedin.com/in/jithin-sasikumar/)
 
 ### Interests:
 Automatic Speech Recognition | MLOps | Natural Language Processing | Conversational AI | Deep Neural Networks (RNN, LSTM, CNN, End to End models, Attention models, Acoustic models) | Deployment (automated CI/CD end-to-end) | Federated Learning
@@ -19,8 +21,9 @@ Automatic Speech Recognition | MLOps | Natural Language Processing | Conversatio
 ### Skills:
 - **Languages:** Python | Groovy | Java (Intermediate) | HTML | CSS | YAML | C++ | C | SQL
 - **ML/DL Frameworks:** Tensorflow | Tensorflow Serving | Tensorflow Federated | Keras | Scikit-learn | Pytorch (Intermediate)
-- **Tools & Technologies:** Docker | MLflow | Kubernetes | AWS (Amazon S3, Amazon SageMaker, Amazon ECR) | Heroku | Poetry | Flask | Hydra | JFrog | Pytest | Jupyter Notebooks
+- **Tools & Technologies:** Docker | MLflow | Kubernetes | AWS (Amazon S3, Amazon SageMaker, Amazon ECR,  Amazon EC2) | Heroku | Poetry | Flask | Hydra | JFrog | Pytest | Jupyter Notebooks
 - **CI/CD Tools & Version Control:** Git | GitHub | GitHub Actions | GitLab | GitLab CI/CD
+- **Workflow Orchestration:** Apache Airflow
 - **Build Automation:** Gradle
 - **Operating Systems:** Linux | Windows
 
