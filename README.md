@@ -16,12 +16,13 @@
 - 📄 Know about my experiences @ [https://www.linkedin.com/in/jithin-sasikumar/](https://www.linkedin.com/in/jithin-sasikumar/)
 
 ### Interests:
-Automatic Speech Recognition | MLOps | Natural Language Processing | Conversational AI | Deep Neural Networks (RNN, LSTM, CNN, End to End models, Attention models, Acoustic models) | Deployment (automated CI/CD end-to-end) | Federated Learning
+Automatic Speech Recognition | MLOps | Natural Language Processing | Conversational AI | Deep Neural Networks (RNN, LSTM, CNN, End to End models, Attention models, Acoustic models) | Automated CI/CD for end-to-end ML Pipelines | Federated Learning
 
 ### Skills:
-- **Languages:** Python | Groovy | Java (Intermediate) | HTML | CSS | YAML | C++ | C | SQL
+- **Languages:** Python | Groovy | Java (Intermediate) | HTML | CSS | YAML | C++ | SQL
 - **ML/DL Frameworks:** Tensorflow | Tensorflow Serving | Tensorflow Federated | Keras | Scikit-learn | Pytorch (Intermediate)
-- **Tools & Technologies:** Docker | MLflow | Kubernetes | AWS (Amazon S3, Amazon SageMaker, Amazon ECR,  Amazon EC2) | Heroku | Poetry | Flask | Hydra | JFrog | Pytest | Jupyter Notebooks
+- **Cloud Technologies:** AWS (Amazon S3, Amazon SageMaker, Amazon ECR, Amazon EC2) | Heroku
+- **Tools:** Docker | MLflow | Kubernetes | Poetry | Flask | Hydra | JFrog | Pytest | Jupyter Notebooks
 - **CI/CD Tools & Version Control:** Git | GitHub | GitHub Actions | GitLab | GitLab CI/CD
 - **Workflow Orchestration:** Apache Airflow
 - **Build Automation:** Gradle
