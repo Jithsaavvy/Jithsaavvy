@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jithin Sasikumar from Germany</h1>
-<h3 align="center">Master's student in Autonomous Systems [ML/DL] & developer. Experienced in deep learning, speech technologies, NLP and currently in the direction of MLOps.</h3>
+<h3 align="center">Master's student in Autonomous Systems [ML/DL] & developer. Experienced in deep learning, speech technologies, NLP and MLOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithsaavvy&label=Profile%20views&color=0e75b6&style=flat" alt="jithsaavvy" /> </p>
 
 - 🔭 I am really passionate about programming, Machine Learning, Deep Learning, ASR, NLP and software development.
 
-- 🔭 I’m currently working on **deep learning, Automatic Speech Recognition, Language modeling and MLOps**.
+- 🔭 I’m currently working on **MLOps, Deep learning, Automatic Speech Recognition and Language modeling**.
 
 - 🔭 I'm always keen on amalgamating research, development, and deployment (obsessed with deploying models into production).
 
@@ -16,12 +16,13 @@
 - 📄 Know about my experiences @ [https://www.linkedin.com/in/jithin-sasikumar/](https://www.linkedin.com/in/jithin-sasikumar/)
 
 ### Interests:
-Automatic Speech Recognition | MLOps | Natural Language Processing | Conversational AI | Deep Neural Networks (RNN, LSTM, CNN, End to End models, Attention models, Acoustic models) | Automated CI/CD for end-to-end ML Pipelines | Federated Learning
+ASR | MLOps | NLP | Automated CI/CD for end-to-end ML Pipelines | Conversational AI | Deep Neural Networks (RNN, LSTM, CNN, End to End models, Attention models, Acoustic models) | Federated Learning
 
 ### Skills:
 - **Languages:** Python | Groovy | Java (Intermediate) | HTML | CSS | YAML | C++ | SQL
 - **ML/DL Frameworks:** Tensorflow | Tensorflow Serving | Tensorflow Federated | Keras | Scikit-learn | Pytorch (Intermediate)
 - **Cloud Technologies:** AWS (Amazon S3, Amazon SageMaker, Amazon ECR, Amazon EC2) | Heroku
+- **Data Warehouse:** Snowflake
 - **Tools:** Docker | MLflow | Kubernetes | Poetry | Flask | Hydra | JFrog | Pytest | Jupyter Notebooks
 - **CI/CD Tools & Version Control:** Git | GitHub | GitHub Actions | GitLab | GitLab CI/CD
 - **Workflow Orchestration:** Apache Airflow
@@ -32,8 +33,3 @@ Automatic Speech Recognition | MLOps | Natural Language Processing | Conversatio
 <p align="left">
 <a href="https://linkedin.com/in/jithin-sasikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithin-sasikumar" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithsaavvy&show_icons=true&locale=en&layout=compact" alt="jithsaavvy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jithsaavvy&show_icons=true&locale=en" alt="jithsaavvy" /></p>
-
