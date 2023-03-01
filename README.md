@@ -22,8 +22,9 @@ ASR | MLOps | NLP | Automated CI/CD for end-to-end ML Pipelines | Conversational
 - **Languages:** Python | Groovy | Java (Intermediate) | HTML | CSS | YAML | C++ | SQL
 - **ML/DL Frameworks:** Tensorflow | Tensorflow Serving | Tensorflow Federated | Keras | Scikit-learn | Pytorch (Intermediate)
 - **Cloud Technologies:** AWS (Amazon S3, Amazon SageMaker, Amazon ECR, Amazon EC2) | Heroku
+- **Container Orchestration:** Kubernetes
 - **Data Warehouse:** Snowflake
-- **Tools:** Docker | MLflow | Kubernetes | Poetry | Flask | Hydra | JFrog | Pytest | Jupyter Notebooks
+- **Tools:** Docker | MLflow | Poetry | Flask | Hydra | JFrog | Pytest | Jupyter Notebooks
 - **CI/CD Tools & Version Control:** Git | GitHub | GitHub Actions | GitLab | GitLab CI/CD
 - **Workflow Orchestration:** Apache Airflow
 - **Build Automation:** Gradle
